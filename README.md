@@ -12,7 +12,7 @@ Soy desarrollador apasionado por [tu especialidad: desarrollo web, data science,
 
 ## 🧰 Tech Stack
 
-![Tus tecnologías favoritas](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css)
+![Tus tecnologías favoritas](https://skillicons.dev/icons?i=js,skit-learn,sql,visual studio code,python)
 
 ## 📈 Estadísticas
 
